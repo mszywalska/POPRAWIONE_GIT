@@ -1,1 +1,5 @@
-jest super
+
+Szkolenie Git
+Monika
+
+jest sup
